@@ -1,6 +1,6 @@
 # 🚗 FleetMargin
 
-> Integrated management platform for car-rental businesses — vehicles, operators, maintenance and **per-vehicle profit & loss**, in one dashboard.
+> Integrated management platform for car-rental businesses: vehicles, operators, maintenance and **per-vehicle profit & loss**, in one dashboard.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
